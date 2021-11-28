@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+    margin: 0 auto;
+}
+
+.container0 {
+    width: 800px;
+    margin: auto;
+}
+
+.c1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.c2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.c3 {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.kazuha {
+    width: 200px;
+    height: 550px;
+    background-color: pink;
+}
+
+.eula {
+    width: 600px;
+    height: 100px;
+    background-color: orange;
+}
+
+.albedo {
+    width: 400px;
+    height: 350px;
+    background-color: lightblue;
+}
+
+
+.diluc {
+    width: 200px;
+    height: 350px;
+    background-color: blue;
+}
+
+.klee {
+    width: 600px;
+    height: 100px;
+    background-color: orangered;
+}

@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.box {
+    width: 420px;
+    height: 100px;
+    border: solid 1px black;
+    justify-content: space-around;
+    background-image: url(iya.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
